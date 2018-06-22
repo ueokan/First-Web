@@ -1,0 +1,4 @@
+1.注冊github賬號
+
+2.生成公鑰和私鑰
+ssh-keygen -t rsa -C "account@qq.com"
